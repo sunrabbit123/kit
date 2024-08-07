@@ -1,5 +1,11 @@
 # @sveltejs/enhanced-img
 
+## 0.3.2
+### Patch Changes
+
+
+- fix: ensure src attribute is properly formed ([`65931f276ac2102032e3032c864a472eee19b7bb`](https://github.com/sveltejs/kit/commit/65931f276ac2102032e3032c864a472eee19b7bb))
+
 ## 0.3.1
 ### Patch Changes
 
